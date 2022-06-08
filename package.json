@@ -1,0 +1,32 @@
+{
+  "name": "gatsby-contentful-rotr-clone",
+  "version": "1.0.0",
+  "description": "A clone of: https://github.com/PaulieScanlon/rise-of-the-robots",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "serve": "gatsby serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulieScanlon/gatsby-contentful-rotr-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulieScanlon/gatsby-contentful-rotr-clone/issues"
+  },
+  "homepage": "https://github.com/PaulieScanlon/gatsby-contentful-rotr-clone#readme",
+  "dependencies": {
+    "gatsby": "^4.15.2",
+    "gatsby-plugin-image": "^2.15.1",
+    "gatsby-plugin-sharp": "^4.15.1",
+    "gatsby-source-contentful": "^7.13.1",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
